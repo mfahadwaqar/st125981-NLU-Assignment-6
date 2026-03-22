@@ -3,8 +3,6 @@
 Name: Muhammad Fahad Waqar<br>
 Student No: st125981
 
-This repository contains the implementation for Assignment 6 (AT82.03 Machine Learning), including data preparation, comparative retrieval experiments, and a Streamlit web application.
-
 ## 1. Project Overview
 
 Objective:
