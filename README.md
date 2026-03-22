@@ -75,13 +75,13 @@ Illustrates how the interface supports switching between Naive RAG and Contextua
 
 ![Mode Comparison](screenshots/mode_comparison.png)
 
-## 9. Limitations
+## 5. Limitations
 
 - The local generator (`Llama-3.2-1B-Instruct`) may produce unstable or partially irrelevant answers for some prompts.
 - Answer quality is sensitive to chunk size and retrieval depth (`top_n`).
 - Contextual enrichment quality depends on precomputed chunk contexts.
 
-## 10. Conclusion
+## 6. Conclusion
 - GitHub repository link: `https://github.com/mfahadwaqar/st125981-NLU-Assignment-6`
 - Jupyter notebook included: `st125981_NLU_Assignment_6.ipynb`
 - README included: `README.md`
