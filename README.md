@@ -13,10 +13,7 @@ Objective:
   - Naive RAG
   - Contextual Retrieval
 - Evaluate generated answers with ROUGE-1, ROUGE-2, and ROUGE-L.
-- Deliver a web application using Contextual Retrieval for response generation.
-
-Assigned chapter used in this submission:
-- Chapter 11 (Machine Translation)
+- Make a web application using Contextual Retrieval for response generation.
 
 ## 2. Repository Structure
 
